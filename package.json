@@ -1,0 +1,17 @@
+{
+  "name": "DiscordEmoteStealer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "SEE LICENSE.txt",
+  "dependencies": {
+    "@types/request": "^2.48.5",
+    "discord.js-light": "^3.5.11",
+    "request": "^2.88.2"
+  }
+}
